@@ -52,7 +52,7 @@ The dataset contains 1,000 retail transactions and the following information:
 ## Project Structure
 
 ```text
-DataAnalytics-L1-EDARetailSales/
+OIBSIP/
 ├── data/
 │   └── retail_sales_dataset.csv
 ├── outputs/
